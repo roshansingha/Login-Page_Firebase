@@ -1,3 +1,11 @@
+Few Instructions :-
+
+1. npm install --save firebase
+2. new folder config inside src
+3. copy project code from firebase
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
